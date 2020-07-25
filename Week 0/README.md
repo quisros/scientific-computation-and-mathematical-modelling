@@ -20,7 +20,7 @@ Once you are done with the above, here are some more resources for you to get ha
 
 You can directly open these files from within Jupyter on your laptop, and work in them. Here are the instructions:
 
-1. Open the link: https://github.com/krittika iitb/tutorials
+1. Open the link: https://github.com/krittikaiitb/tutorials
 2. All the files should be visible under the section "DEVANSH-DVJ" on this page. You are encouraged to view the "How to use Jupyter notebooks" and the "Jupyter Setup" files, by directly clicking on them. 
 3. In order to download all the tutorial files, click on the green "Clone" button at the top right corner of this section, then select the "Download ZIP" option.
 4. Unzip the "tutorials-master" folder that is downloaded, and save it at whatever location is convenient (preferably the Downloads folder itself).
