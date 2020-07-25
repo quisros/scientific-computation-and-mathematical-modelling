@@ -1,6 +1,6 @@
-##Week 0
+## Week 0
 
-###Module 0.1
+### Module 0.1
 
 The first week is an introduction to python, for those who may not have used it/ are not yet comfortable for the platform. If you are using python for the first time, I'd urge you to download [anaconda](https://docs.anaconda.com/anaconda/install/) - and use Jupiter notebooks as they are very user friendly and intuitive. The preferred way to use Python is via Jupyter, which can be launched from within the Anaconda navigator. There is NO assignment this week. If you are proficient in python, the course essentially starts from next week.
 
@@ -14,7 +14,7 @@ A good place to start with Python coding, is the micro-course on Python, availab
 
 https://www.kaggle.com/learn/python
 
-###Module 0.2
+### Module 0.2
 
 Once you are done with the above, here are some more resources for you to get hands-on practice with coding in Python. This material was created by Krittika: The Astronomy Club of IIT Bombay. It is present on github, in the form of multiple tutorials, each containing unsolved and solved versions of Jupyter notebooks (.ipynb files), explaining the relevant Python concepts. The data used in these notebooks is mainly, publicly available astronomical data.
 
@@ -34,7 +34,7 @@ However, if you're already familiar with Python and want to explore further stuf
 
 Also note that all these tutorials are for practice only, aimed at helping you understand the main course content and complete the assignments that will begin from next week. It is okay if you do not understand all the stuff from all these tutorials completely.
 
-###Module 0.3
+### Module 0.3
 
 By now, all of you must have had a decent exposure to basic programming in Python. You have seen how using different Python libraries with pre-defined data structures and functions can considerably simplify your task.
 
@@ -53,4 +53,4 @@ https://youtu.be/xCKfR80E8ZA
 
 Note that this is quite a long video and explains a lot of stuff, all of which is not required as such, for basic scientific computation. You can watch this video as per your interest and use it as a reference for later tutorials.
 
-With this, we have reached the end of week 1. From next week onwards, we'll begin with Scientific Computational methods and algorithms, and also include weekly assignments, which are to be submitted for grading purposes.
+With this, we have reached the end of week 0. From next week onwards, we'll begin with Scientific Computational methods and algorithms, and also include weekly assignments, which are to be submitted for grading purposes.
