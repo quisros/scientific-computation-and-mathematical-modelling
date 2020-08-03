@@ -32,7 +32,7 @@ https://opencommons.uconn.edu/cgi/viewcontent.cgi?article=1118&context=srhonors_
 
 We hope you all had a good time learning the Runge-Kutta Algorithm. Now, we’ll spend some time learning the Scipy modules to solve ODEs and oscillating systems such as the Simple Pendulum. Let’s get started!
 
-##### Scipy.integrate.odeint:
+#### Scipy.integrate.odeint:
 
 Scipy is a Python-based ecosystem of open-source software for mathematics, science and engineering. Scipy.integrate.odeint is used to integrate a system of ordinary differential equations and solves the initial value problems. Differential equations are solved in Python with the scipy.integrate package using the ODEINT function. 
 
@@ -44,7 +44,7 @@ In order to practice solving differential equations with ODEINT, refer the follo
 
 https://apmonitor.com/pdc/index.php/Main/SolveDifferentialEquations
 
-##### Oscillations:
+#### Oscillations:
 
 Oscillation is a repetitive variation, typically in time, of some measure about a central value or between two or more different states. Familiar examples of oscillations include a swinging pendulum and alternating current. Oscillations occur not only in mechanical systems, but also in dynamic systems in virtually every area of science: the beating of the human heart, business cycles in economics, predator-prey population cycles in ecology, geothermal geysers in geology, vibration of strings in guitar and other string instruments, periodic firing of nerve cells in the brain and the periodic swelling of Cepheid variable stars in astronomy.
 
